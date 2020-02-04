@@ -12,4 +12,4 @@ class Anagram
 			binding.pry
 		end
 	end
-end@
+end
